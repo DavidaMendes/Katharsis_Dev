@@ -5,4 +5,6 @@
 Este é um jogo de puzzle colaborativo em 2D, com estilo side-scrolling, que oferece uma nova perspectiva para um dos contos mais clássicos e trágicos da literatura, trazendo uma abordagem mais dinâmica e divertida. Katharsis explora até onde estamos dispostos a ir por amor, convidando os jogadores a embarcarem em uma jornada de união, superação e sacrifício.
 
 Jogo desenvolvido pela guilda <b>Corallium Games Studio</b> que faz parte da <b>Forja Games Studios</b>
+
+<b><a href="https://davidamendes.itch.io/katharsis" target="_blank" rel="noopener noreferrer">Link para download</a></b>
 </p>
